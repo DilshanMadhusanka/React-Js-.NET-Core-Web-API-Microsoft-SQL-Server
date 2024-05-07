@@ -1,0 +1,6 @@
+
+
+** create react app
+** add bostrape for styling
+** install ( npm install react-router-dom ) This package is essential for implementing routing in React applications
+** API end point store krann wenam file ekaka. (variable.js )
