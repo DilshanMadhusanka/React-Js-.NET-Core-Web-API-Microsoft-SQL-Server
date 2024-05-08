@@ -11,11 +11,11 @@ function App() {
     <BrowserRouter>
       <div className="App container">
         <h3 className="d-flex justify-content-center m-3">
-          React JS Frontend
+          Employee Management 
         </h3>
 
         {/* Navbar */}
-        <nav className="navbar navbar-expand-sm bg-light navbar-dark">
+        <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
           <ul className="navbar-nav">
             <li className="nav-item m-1">
               <NavLink className="btn btn-light btn-outline-primary" to="/home">
