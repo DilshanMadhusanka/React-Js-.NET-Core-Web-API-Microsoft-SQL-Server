@@ -6,7 +6,7 @@ using System.Data;
 
 
 // install this package ( System.Data.SqlClient )
-
+// Department Controller
 
 namespace FullStackProject.Controllers
 {
