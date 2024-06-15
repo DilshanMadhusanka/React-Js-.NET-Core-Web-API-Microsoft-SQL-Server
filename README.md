@@ -2,6 +2,12 @@
 
 Create a full stack web application using Microsoft SQL Server for the database, .NET Core Web API for the backend, and React JS for the frontend.
 
+![Logo]( assets/1.png)
+![Logo]( assets/4.png)
+![Logo]( assets/3.png)
+![Logo]( assets/2.png)
+
+
 ## Overview
 
 - Setting up Microsoft SQL Server and creating necessary tables.
@@ -21,14 +27,19 @@ Ensure you have the following installed:
 
 ## Clone this repository to your local machine:
 
-https://github.com/DilshanMadhusanka/React-Js-.NET-Core-Web-API-Microsoft-SQL-Server.git
+    https://github.com/DilshanMadhusanka/React-Js-.NET-Core-Web-API-Microsoft-SQL-Server.git
 
 
 ## Additional Resources
 
 - Microsoft SQL Server Documentation
-https://learn.microsoft.com/en-us/sql/?view=sql-server-ver15 
+ 
+      https://learn.microsoft.com/en-us/sql/?view=sql-server-ver15
+  
 - .NET Core Documentation
-   https://learn.microsoft.com/en-us/dotnet/fundamentals/?view=netcore-3.1 
+  
+      https://learn.microsoft.com/en-us/dotnet/fundamentals/?view=netcore-3.1
+  
 - React Documentation
-   https://react.dev/learn 
+  
+      https://react.dev/learn 
